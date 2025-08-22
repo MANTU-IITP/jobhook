@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "Acme Inc",
+    "location": "Bengaluru",
+    "scoreReq": 70,
+    "employerId": "emp-1"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "company": "TechFlow",
+    "location": "Hyderabad",
+    "scoreReq": 65,
+    "employerId": "emp-2"
+  },
+  {
+    "title": "full stack",
+    "company": "wedhub",
+    "location": "delhi",
+    "scoreReq": 65,
+    "employerId": "emp-1",
+    "id": 3
+  }
+]

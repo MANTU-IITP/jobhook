@@ -1,0 +1,38 @@
+{
+  "1": [
+    {
+      "applicantName": "Student",
+      "score": 80,
+      "when": 1755703514745
+    },
+    {
+      "applicantName": "Student",
+      "score": 78,
+      "when": 1755703520965
+    }
+  ],
+  "2": [
+    {
+      "applicantName": "Student",
+      "score": 80,
+      "when": 1755703514745
+    },
+    {
+      "applicantName": "Student",
+      "score": 78,
+      "when": 1755703520965
+    }
+  ],
+  "3": [
+    {
+      "applicantName": "Student",
+      "score": 80,
+      "when": 1755703514745
+    },
+    {
+      "applicantName": "Student",
+      "score": 78,
+      "when": 1755703520965
+    }
+  ]
+}

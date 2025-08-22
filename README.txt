@@ -1,8 +1,6 @@
 JobHook – Full‑Stack Starter (Frontend + Backend)
 ================================================
-What you get:
-- Frontend: Vite + React + Tailwind + React Router + lucide-react
-- Backend: Express + CORS + Multer (resume upload) + simple scoring + auto-shortlist
+
 
 Quick start:
 1) Backend
